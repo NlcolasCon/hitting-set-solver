@@ -39,4 +39,5 @@ java HittingSet 2
 
 ## Results & Plots
 
-See docs/ExperimentalEvaluation.pdf for detailed runtime curves, box-plots, and stability analysis.
+See Experiment_Results.pdf for detailed runtime curves, box-plots, and stability analysis.
+See Predictions_For_Experiments.pdf for brief predictions of each algorithm for the experiments 
